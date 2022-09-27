@@ -1,3 +1,4 @@
+// Leetcode 225 Implement Stack using Queue
 class MyStack {
     Queue<Integer> queue = new LinkedList<>();
     public MyStack() {
